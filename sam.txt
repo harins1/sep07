@@ -1,0 +1,12 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+Test to check the master
+=======
+line 1 
+
+Testing file
+
+number 3
+>>>>>>> 5280d61c821ce350c98f3ed0a83c8ba46f65f93d
+>>>>>>> Stashed changes
