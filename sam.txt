@@ -1,5 +1,8 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 Test to check the master
 =======
@@ -9,4 +12,7 @@ Testing file
 
 number 3
 >>>>>>> 5280d61c821ce350c98f3ed0a83c8ba46f65f93d
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
